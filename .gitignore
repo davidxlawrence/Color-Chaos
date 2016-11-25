@@ -1,0 +1,6 @@
+Unity/Assets/Plugins/
+Unity/Assets/Standard Assets/
+Unity/Assets/Editor/
+*.unityproj
+*.csproj
+Unity/Temp/
